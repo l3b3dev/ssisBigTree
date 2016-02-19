@@ -11,8 +11,9 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="LoadVendors"
   DTS:PackageType="5"
-  DTS:VersionBuild="50"
-  DTS:VersionGUID="{59FD1ABD-4731-439F-843A-3725CAA2AEA7}">
+  DTS:ProtectionLevel="0"
+  DTS:VersionBuild="51"
+  DTS:VersionGUID="{B1B7C3FF-D54C-457E-B8F5-042A2C550961}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>

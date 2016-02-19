@@ -11,8 +11,9 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="CreateMDSDb"
   DTS:PackageType="5"
-  DTS:VersionBuild="17"
-  DTS:VersionGUID="{C00CDDA5-1D5F-4F67-964D-8A88BA4C0DB0}">
+  DTS:ProtectionLevel="0"
+  DTS:VersionBuild="18"
+  DTS:VersionGUID="{6844D246-A83E-4910-B3DD-48C5903CBDB7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
